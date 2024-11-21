@@ -28,3 +28,14 @@ When you choose option 2
 It will show that the feature is coming soon
 When you choose option 3
 The code will terminate 
+When you click option 3
+You should be able to search for a task by name
+When you click option 4
+You should be able to search a task using a developer's name
+When you click option 5
+You should be able to delete a task by name
+When you click option 6
+All tasks should display
+When you click option 7
+A message that says "Thank you for using Easy Kanban, Goodbye!" should display
+Note that the application will run until you click the third option
